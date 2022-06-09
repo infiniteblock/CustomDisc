@@ -1,0 +1,17 @@
+[
+  {
+    "modid": "customdisc",
+    "name": "Custom Disc: Updated",
+    "description": "A mod that adds custom music disc's.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/customdisc-updated",
+    "updateUrl": "",
+    "authorList": [
+      "InfiniteBlock",
+      "Amygdaloideae"
+    ],
+    "credits": "",
+    "logoFile": "/logo.png"
+  }
+]

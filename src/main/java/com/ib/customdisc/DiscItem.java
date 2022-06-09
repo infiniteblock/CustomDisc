@@ -7,6 +7,6 @@ public class DiscItem extends ItemRecord {
     protected DiscItem(String name, SoundEvent sound) {
         super(name, sound);
         setRegistryName(name);
-        setUnlocalizedName(name);
+        setTranslationKey(name);
     }
 }
